@@ -2,7 +2,7 @@
 
 - [XAMPPを利用してlocalhostでページを表示できない](#XAMPPを利用してlocalhostでページを表示できない)
 - [XAMPPを利用してローカル環境でメール送信したい](#XAMPPを利用してローカル環境でメール送信したい)
-- [WSL2でlex, yaccを使いたい](#WSL2でlex, yaccを使いたい)
+- [WSL2でlex, yaccを使いたい](#WSL2でlex,_yaccを使いたい)
 
 ## XAMPPを利用してlocalhostでページを表示できない
 
