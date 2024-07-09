@@ -6,7 +6,7 @@
 
 ## Typst
 
-[新興組版システム typst のススメ](https://zenn.dev/msakuta/articles/2f1cd11d6099d6)
+[新興組版システム typst のススメ](https://zenn.dev/msakuta/articles/2f1cd11d6099d6)  
 [Typstのここがすごい！！](https://qiita.com/hikoharu14142/items/aa8cfb70d079b0324fba)
 
 ## TeX
