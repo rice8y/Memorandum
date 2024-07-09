@@ -14,3 +14,8 @@
 [徹底解説！ \expandafter 活用術（キホン編）](https://qiita.com/zr_tex8r/items/342bf5c500c35fedb58d)  
 [徹底解説！ マクロの等価性を理解する](https://qiita.com/zr_tex8r/items/a0b991dcc83fff31fa4a)  
 [マクロとプリミティブの間の壁を打破せよ―LuaTeXで“1回展開”のマクロを定義する話](https://qiita.com/zr_tex8r/items/8fad42e4b8bad284e984)
+
+## LaTeX
+
+[TeXでソースコードを"Zennっぽく"貼り付ける.](https://zenn.dev/cyber_hacnosuke/articles/41275710b8f594)  
+
