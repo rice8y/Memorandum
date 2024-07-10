@@ -18,4 +18,5 @@
 ## LaTeX
 
 [TeXでソースコードを"Zennっぽく"貼り付ける.](https://zenn.dev/cyber_hacnosuke/articles/41275710b8f594)  
+[LINEオープンチャットでTeXを扱いたかった話](https://zenn.dev/kanal/articles/61fa0bf3c1d37d)  
 
