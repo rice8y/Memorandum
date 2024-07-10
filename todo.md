@@ -20,3 +20,7 @@
 [TeXでソースコードを"Zennっぽく"貼り付ける.](https://zenn.dev/cyber_hacnosuke/articles/41275710b8f594)  
 [LINEオープンチャットでTeXを扱いたかった話](https://zenn.dev/kanal/articles/61fa0bf3c1d37d)  
 
+## Lua
+
+[しぶしぶ覚えるLua言語](https://qiita.com/aike@github/items/2023bbeb21094af6795e)  
+[Lua/チュートリアル](https://ja.wikibooks.org/wiki/Lua/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
